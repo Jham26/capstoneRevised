@@ -12,3 +12,6 @@ This project is for study purposes only to excel my knowledge in this PHP framew
 
 -I really need your feedback to enhance my knowledge =)
 -I will also upload here my MySql database for this project so you can clone and test my project.
+
+
+STATUS: JUST STARTED
